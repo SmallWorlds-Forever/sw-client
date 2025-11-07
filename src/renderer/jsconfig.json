@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "esnext",
+    "baseUrl": "./",
+    "moduleResolution": "node",
+    "paths": {
+      "@/*": [
+        "./src/renderer/*"
+      ],
+      "@/components/*": [
+        "./src/renderer/components/*"
+      ],
+      "@stores/*" : [
+        "./src/renderer/stores/*"
+      ],
+      "@public/*" : [
+        "./src/renderer/public/*"
+      ],
+
+    },
+    "lib": [
+      "esnext",
+      "dom",
+      "dom.iterable",
+      "scripthost"
+    ]
+  }
+}

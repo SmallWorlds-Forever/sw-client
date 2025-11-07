@@ -1,0 +1,14 @@
+electron-builder.yml
+/node_modules
+/dist
+/release
+/build
+.env.development
+.env.production
+.env
+/public
+
+electron-builder.yml
+# OS files
+.DS_Store
+Thumbs.db
