@@ -14,7 +14,6 @@ The official client for SmallWorlds, built with Electron and Vue.js.
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ## About The Project
 
