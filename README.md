@@ -105,8 +105,4 @@ Contributions are what make the open source community such an amazing place to l
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-
-Project Link: [https://github.com/boarhatgames/client](https://github.com/boarhatgames/client)
+Distributed under the AGPL-3.0 License. See `LICENSE` for more information.
