@@ -47,7 +47,7 @@ You must have Node.js and npm installed to build and run this project.
 
 1.  Clone the repo
     ```sh
-    git clone https://github.com/boarhatgames/client.git
+    git clone https://github.com/SmallWorlds-Forever/sw-client.git
     ```
 2.  Install NPM packages
     ```sh
